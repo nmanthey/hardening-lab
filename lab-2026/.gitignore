@@ -1,0 +1,7 @@
+# The container image archive is ~1 GB
+festival-hardening-lab-f41.tar.gz
+*.tar.gz
+
+# Build/lab scratch output
+build*.log
+*.patch
